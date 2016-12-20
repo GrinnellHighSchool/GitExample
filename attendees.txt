@@ -6,3 +6,4 @@ Attendees
 * Mr. Hunter
 * Hans Larsson
 * John M.
+* Calvin Dreesman
